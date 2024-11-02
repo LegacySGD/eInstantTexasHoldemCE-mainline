@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Totale Vincite"/>
+<phrase key="totalWager" value="Puntata Totale"/>
+<phrase key="wagerType" value=""/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wedge" value="Sezione"/>
+<phrase key="count" value="Conteggio"/>
+<phrase key="youMatched" value="Hai ottenuto"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="commCards" value="Carte Comuni"/>
+<phrase key="champion" value="Campione"/>
+<phrase key="startHand" value="Mano iniziale"/>
+<phrase key="finalHand" value="Mano finale"/>
+<phrase key="handRank" value="Tipologia Mano"/>
+<phrase key="player" value="Giocatore"/>
+<phrase key="winner" value="Vincitore"/>
+<phrase key="yes" value="Sì"/>
+<phrase key="no" value="No"/>
+<phrase key="highC" value="Carta alta"/>
+<phrase key="1pair" value="1 Coppia"/>
+<phrase key="2pair" value="Doppia Coppia"/>
+<phrase key="3kind" value="Tris"/>
+<phrase key="straight" value="Scala"/>
+<phrase key="flush" value="Colore"/>
+<phrase key="fullH" value="Full House"/>
+<phrase key="4kind" value="Poker"/>
+<phrase key="strFlush" value="Scala a Colore"/>
+<phrase key="royFlush" value="Scala Reale"/>
+</translation>

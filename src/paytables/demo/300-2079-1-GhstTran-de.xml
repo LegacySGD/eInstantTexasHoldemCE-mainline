@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gesamtgewinn"/>
+<phrase key="totalWager" value="Gesamteinsatz"/>
+<phrase key="wagerType" value=""/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wedge" value="Stück"/>
+<phrase key="count" value="Anzahl"/>
+<phrase key="youMatched" value="Ihre Übereinstimmungen"/>
+<phrase key="prize" value="Preis"/>
+<phrase key="commCards" value="Gemeinschaftskarten"/>
+<phrase key="champion" value="Champion"/>
+<phrase key="startHand" value="Starthand"/>
+<phrase key="finalHand" value="Endgültige Hand"/>
+<phrase key="handRank" value="Rangfolge der Pokerhände"/>
+<phrase key="player" value="Spieler"/>
+<phrase key="winner" value="Gewinner"/>
+<phrase key="yes" value="Ja"/>
+<phrase key="no" value="Nein"/>
+<phrase key="highC" value="High Card"/>
+<phrase key="1pair" value="1 Paar"/>
+<phrase key="2pair" value="2 Paar"/>
+<phrase key="3kind" value="3 Gleiche"/>
+<phrase key="straight" value="Straight"/>
+<phrase key="flush" value="Flush"/>
+<phrase key="fullH" value="Full House"/>
+<phrase key="4kind" value="4 Gleiche"/>
+<phrase key="strFlush" value="Straight Flush"/>
+<phrase key="royFlush" value="Royal Flush"/>
+</translation>

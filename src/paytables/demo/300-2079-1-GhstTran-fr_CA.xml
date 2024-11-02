@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr_CA">
+<phrase key="softwareId" value="ID du logiciel"/>
+<phrase key="transactionId" value="ID de transaction"/>
+<phrase key="totalWins" value="Gains totaux"/>
+<phrase key="totalWager" value="Mise totale"/>
+<phrase key="wagerType" value=""/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wedge" value="Secteur"/>
+<phrase key="count" value="Compte"/>
+<phrase key="youMatched" value="Identiques"/>
+<phrase key="prize" value="Lot"/>
+<phrase key="commCards" value="Cartes communes"/>
+<phrase key="champion" value="Champion"/>
+<phrase key="startHand" value="Main initiale"/>
+<phrase key="finalHand" value="Main finale"/>
+<phrase key="handRank" value="Classement des mains"/>
+<phrase key="player" value="Joueur"/>
+<phrase key="winner" value="Gagnant"/>
+<phrase key="yes" value="Oui"/>
+<phrase key="no" value="Non"/>
+<phrase key="highC" value="Carte haute"/>
+<phrase key="1pair" value="1 paire"/>
+<phrase key="2pair" value="2 paires"/>
+<phrase key="3kind" value="Brelan"/>
+<phrase key="straight" value="Séquence"/>
+<phrase key="flush" value="Couleur"/>
+<phrase key="fullH" value="Main pleine"/>
+<phrase key="4kind" value="Carré"/>
+<phrase key="strFlush" value="Quinte"/>
+<phrase key="royFlush" value="Quinte royale"/>
+</translation>

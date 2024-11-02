@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Mjukvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Totalvinster"/>
+<phrase key="totalWager" value="Totalinsats"/>
+<phrase key="wagerType" value=""/>
+<phrase key="BUY" value=""/>
+<phrase key="TRY" value=""/>
+<phrase key="wedge" value="Hjulsiffra"/>
+<phrase key="count" value="Antal"/>
+<phrase key="youMatched" value="Du matchade"/>
+<phrase key="prize" value="Pris"/>
+<phrase key="commCards" value="Gemensamma kort"/>
+<phrase key="champion" value="Mästare"/>
+<phrase key="startHand" value="Starthand"/>
+<phrase key="finalHand" value="Slutgiltig hand"/>
+<phrase key="handRank" value="Ranking på hand"/>
+<phrase key="player" value="Spelare"/>
+<phrase key="winner" value="Vinnare"/>
+<phrase key="yes" value="Ja"/>
+<phrase key="no" value="Nej"/>
+<phrase key="highC" value="Högt kort"/>
+<phrase key="1pair" value="1 par"/>
+<phrase key="2pair" value="2 par"/>
+<phrase key="3kind" value="Triss"/>
+<phrase key="straight" value="Stege"/>
+<phrase key="flush" value="Färg"/>
+<phrase key="fullH" value="Kåk"/>
+<phrase key="4kind" value="Fyrtal"/>
+<phrase key="strFlush" value="Färgstege"/>
+<phrase key="royFlush" value="Royal Flush"/>
+</translation>
